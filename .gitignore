@@ -1,0 +1,5 @@
+.env
+*.exe
+*.jar
+*.log
+.DS_Store
